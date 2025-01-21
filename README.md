@@ -75,13 +75,6 @@ In order to run mainnet fork tests against base, inherit `BaseTest` in `BaseTest
 
 ## Deployment
 
-See `script/README.md` for more detail.
-
-### Access Control
-See `PERMISSIONS.md` for more detail.
-
-## Deployment
-
 | Name               | Address                                                                                                                               |
 | :----------------- | :------------------------------------------------------------------------------------------------------------------------------------ |
 | ArtProxy               | [0xE9992487b2EE03b7a91241695A58E0ef3654643E](https://basescan.org/address/0xE9992487b2EE03b7a91241695A58E0ef3654643E#code) |
